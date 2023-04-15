@@ -13,6 +13,7 @@ WKU Clinic Appointment & Management System
 
 # 注意 
 如果使用4951demo2（用户注册页面），则需额外安装vant weapp组件库：
+
 1、安装 node.js
 在使用 Vant Weapp 前，我们需要安装 node.js ，因为后面会用到 npm 指令。
 下载网址：https://nodejs.org/zh-cn/
