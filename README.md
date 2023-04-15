@@ -8,6 +8,7 @@ WKU Clinic Appointment & Management System
 2. 由于本项目使用微信开发者工具提供的云数据库服务，因此请在注册完成后获取AppID以使用微信开发者工具中的“微信云开发”服务
 
 ![image](https://user-images.githubusercontent.com/75212308/232187344-540881b3-510f-4215-a6c0-956c87ca14ac.png)
+
 3. 将项目中的所有文件解压到同一文件夹下后，在“创建小程序”中，将“目录”指向该文件夹路径即可打开项目
 
 # 注意 
